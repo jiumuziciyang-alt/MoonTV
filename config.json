@@ -92,52 +92,52 @@
       "name": "喜剧",
       "type": "movie",
       "query": "喜剧"
-    }
+    },
     {
       "name": "恐怖",
       "type": "movie",
       "query": "恐怖"
-    }
+    },
     {
       "name": "动作",
       "type": "movie",
       "query": "动作"
-    }
+    },
     {
       "name": "科幻",
       "type": "movie",
       "query": "科幻"
-    }
+    },
     {
       "name": "动漫",
       "type": "movie",
       "query": "动漫"
-    }
+    },
     {
       "name": "动画",
       "type": "movie",
       "query": "动画"
-    }
+    },
     {
       "name": "治愈",
       "type": "movie",
       "query": "治愈"
-    }
+    },
     {
       "name": "悬疑",
       "type": "movie",
       "query": "悬疑"
-    }
+    },
     {
       "name": "剧情",
       "type": "movie",
       "query": "剧情"
-    }
+    },
     {
       "name": "港片",
       "type": "movie",
       "query": "港片"
-    }
+    },
     {
       "name": "惊悚",
       "type": "movie",
